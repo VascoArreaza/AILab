@@ -185,3 +185,5 @@ Unless otherwise noted, use these materials for educational, internal training, 
 ## Acknowledgments
 
 Built for practical AI security education, hands-on learning, and real-world discussion around LLM risk, secure design, and threat modeling.
+
+Created by Gustavo Nieves Arreazza in march of 2026
